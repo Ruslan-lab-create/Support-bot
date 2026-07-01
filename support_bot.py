@@ -3,8 +3,8 @@ import json
 import os
 from datetime import datetime
 
-BOT_TOKEN = "ВСТАВЬ_ТОКЕН_СЮДА"
-ADMIN_ID = 123456789
+BOT_TOKEN = "8789570499:AAHSg2EetCFMb9DRek6VUAoRededZknARCI"
+ADMIN_ID = 7867792990
 DB_FILE = "users_db.json"
 
 bot = telebot.TeleBot(BOT_TOKEN)
